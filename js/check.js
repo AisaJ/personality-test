@@ -4,7 +4,7 @@ function checkPersonality(){
 
   var pet = prompt("Which pet do you prefer? Dog or Cat");
   var pet2 = pet.toLowerCase();
-  var environ = prompt("Do like indoor or outdoor activities?");
+  var environ = prompt("Do you like indoor or outdoor activities?");
   var environ2 = environ.toLowerCase();
   var color = prompt("What color choices do you prefer? Bright or Quiet")
   var color2 = color.toLowerCase();
